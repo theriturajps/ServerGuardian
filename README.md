@@ -34,10 +34,12 @@ The GitHub Action will start pinging your URLs every 5 minutes to prevent them f
 
 ## 📊 Uptime Stats
 
-<!--STATS_START-->Last Run: Not yet
-Users: 0
-Total URLs: 0
-Successful Pings: 0
+<!--STATS_START-->
+
+**Last Run:** Thu, 24 Jul 2025 13:07:53 GMT  
+**Users:** 1  
+**Total URLs:** 1  
+**Successful Pings:** 1  
 
 <!--STATS_END-->
 ---
